@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fediim.fitmetrics",
+    "sha256_cert_fingerprints":
+    ["D0:E9:3D:E6:A4:81:31:FA:8C:B1:98:27:0E:69:CC:73:7F:2F:48:22:6D:BB:DC:1B:84:18:ED:76:EC:BE:F8:E9","C1:EE:E6:25:39:34:6C:D8:28:79:71:9E:38:DF:38:7D:B6:03:13:D3:6A:FB:29:CA:7C:5E:9C:42:2D:01:57:EC"]
+  }
+}]
